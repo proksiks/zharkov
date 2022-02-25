@@ -279,3 +279,6 @@ select {
   text-decoration: underline;
 }
 /* / footer */
+.lowercase {
+  text-transform: none;
+}
